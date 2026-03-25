@@ -1,0 +1,12 @@
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\bin\Debug\PROYECTO-MAESTRO.exe.config
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\bin\Debug\PROYECTO-MAESTRO.exe
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\bin\Debug\PROYECTO-MAESTRO.pdb
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO-MAESTRO.csproj.AssemblyReference.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO_MAESTRO.Form1.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO_MAESTRO.Form2.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO_MAESTRO.Properties.Resources.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO-MAESTRO.csproj.GenerateResource.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO-MAESTRO.csproj.CoreCompileInputs.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO-MAESTRO.exe
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO-MAESTRO.pdb
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO-MAESTRO\PROYECTO-MAESTRO\obj\Debug\PROYECTO_MAESTRO.Form3.resources
